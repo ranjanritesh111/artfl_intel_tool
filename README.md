@@ -1,2 +1,3 @@
 # artfl_intel_tool
 NPL : The Re-Invent
+Wiki Def : Natural Language Programming (NLP) is an ontology-assisted way of programming in terms of natural language sentences, e.g. English. A structured document with Content, sections and subsections for explanations of sentences forms a NLP document, which is actually a computer program. Natural languages and natural language user interfaces include Inform7, a natural programming language for making interactive fiction; Shakespeare, an esoteric natural programming language in the style of the plays of William Shakespeare, and Wolfram Alpha, a computational knowledge engine, using natural language input
